@@ -1,0 +1,17 @@
+{
+  "runs": 10,
+  "errors_injected": 1091,
+  "detected_pct": 99.7,
+  "lei_typo_autofix_pct": 90.9,
+  "lei_typo_autofix_n": 44,
+  "findings_in_clean_register": [
+    {
+      "rule": "LEI_STATUS",
+      "template": "B_05.01",
+      "column": "provider_id",
+      "value": "526700A226529CF0D718",
+      "message": "LEI registration is LAPSED in GLEIF"
+    }
+  ],
+  "findings_demo_register": 115
+}

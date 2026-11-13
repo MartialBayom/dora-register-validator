@@ -1,0 +1,11 @@
+in_dry_run_checks,error_type,injected,detected_pct
+True,missing,871,100.0
+True,lei_typo,53,100.0
+True,bad_value,44,100.0
+True,bad_date,8,100.0
+True,duplicate,6,100.0
+False,lapsed_lei,29,100.0
+False,critical_not_assessed,23,100.0
+False,broken_ref,22,100.0
+False,end_before_start,19,84.2
+False,wrong_lei,16,100.0

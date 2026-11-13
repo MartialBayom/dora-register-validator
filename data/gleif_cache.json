@@ -1,0 +1,403 @@
+{
+ "1Z4GXXU7ZHVWFCD8TV52": {
+  "name": "ORACLE CORPORATION",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "213800QAUUUP6I445N30": {
+  "name": "LONDON STOCK EXCHANGE GROUP PLC",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "GB"
+ },
+ "222100LLN7HBO5YEC577": {
+  "name": "POST LUXEMBOURG",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "LU"
+ },
+ "254900FFVZJHKGMS4B02": {
+  "name": "Avaloq Group AG",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "CH"
+ },
+ "254900TF5VKTJ141VZ73": {
+  "name": "REFINITIV LIMITED",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "GB"
+ },
+ "5067007NW6550481FH64": {
+  "name": "TEMENOS AG",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "CH"
+ },
+ "526700A226529CF0D718": {
+  "name": "LuxTrust S.A.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "5299000WVEJNSG42AK88": {
+  "name": "SIMCORP A/S",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "DK"
+ },
+ "529900D6BF99LW9R2E68": {
+  "name": "SAP SE",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "DE"
+ },
+ "529900G3SW56SHYNPR95": {
+  "name": "Deutsche Börse Aktiengesellschaft",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "DE"
+ },
+ "5493000EWHDSR3MZWH98": {
+  "name": "ACCENTURE PUBLIC LIMITED COMPANY",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "IE"
+ },
+ "5493000QYMPFRTEY4K28": {
+  "name": "日本電気株式会社",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "JP"
+ },
+ "5493001EZOOA66PTBR68": {
+  "name": "Atos Group",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "FR"
+ },
+ "5493001KJTIIGC8Y1R12": {
+  "name": "Bloomberg Finance L.P.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "5493006MHB84DD0ZWV18": {
+  "name": "ALPHABET INC.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "5493009JROZ7J6P07171": {
+  "name": "PROXIMUS LUXEMBOURG S.A.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "LU"
+ },
+ "549300CWRXC5EP004533": {
+  "name": "PROXIMUS",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "BE"
+ },
+ "549300EVUN2BTLJ3GT74": {
+  "name": "EQUINIX, INC.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "549300KZDJZQ2YIHRC28": {
+  "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "549300LKFJ962MZ46593": {
+  "name": "CISCO SYSTEMS, INC.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "549300LQ4LWX2R8ZV130": {
+  "name": "KYNDRYL HOLDINGS, INC.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "549300OL514RA0SXJJ44": {
+  "name": "CLEARSTREAM BANKING S.A.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "LU"
+ },
+ "549300RMUDWPHCUQNE66": {
+  "name": "Bloomberg Inc.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "549300S4MS8CGINIFD34": {
+  "name": "ATOS",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "ZA"
+ },
+ "549300WCLFVEBTBNRF76": {
+  "name": "MICROSOFT IRELAND OPERATIONS LIMITED",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "IE"
+ },
+ "6WQI0GK1PRFVBA061U48": {
+  "name": "FIDELITY NATIONAL INFORMATION SERVICES, INC.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "98450052CF14CFEB6435": {
+  "name": "GOOGLE CLOUD EMEA LIMITED",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "IE"
+ },
+ "HB7FFAZI0OMZ8PP8OE26": {
+  "name": "SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "BE"
+ },
+ "INR2EJN1ERAN0W5ZP974": {
+  "name": "MICROSOFT CORPORATION",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "RCGZFPDMRW58VJ54VR07": {
+  "name": "SALESFORCE, INC.",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "VGRQXHF3J8VDLUA7XE92": {
+  "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "country": "US"
+ },
+ "213800MKK352CYUW9Y17": {
+  "name": "INDUSTRIAL FOOD AUTOMATION HOLDING S.À R.L.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::MICROSOFT IRELAND OPERATIONS LIMITED::None": {
+  "lei": "549300WCLFVEBTBNRF76",
+  "name": "MICROSOFT IRELAND OPERATIONS LIMITED",
+  "score": 100.0
+ },
+ "suggest::ORACLE CORPORATION::None": {
+  "lei": "1Z4GXXU7ZHVWFCD8TV52",
+  "name": "ORACLE CORPORATION",
+  "score": 100.0
+ },
+ "suggest::TEMENOS AG::None": {
+  "lei": "5067007NW6550481FH64",
+  "name": "TEMENOS AG",
+  "score": 100.0
+ },
+ "suggest::CISCO SYSTEMS, INC.::None": {
+  "lei": "549300LKFJ962MZ46593",
+  "name": "CISCO SYSTEMS, INC.",
+  "score": 100.0
+ },
+ "254900KGCBUFCK2V2B39": {
+  "name": "ADLE Lux Investment Holdings (UL-A) S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "254900WD0TJOGGDBNQ35": {
+  "name": "David Topco S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "64884Y5NU3Q5M862HX38": {
+  "name": "Monte Orlando Capital S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::EQUINIX, INC.::None": {
+  "lei": "549300EVUN2BTLJ3GT74",
+  "name": "EQUINIX, INC.",
+  "score": 100.0
+ },
+ "suggest::SIMCORP A/S::None": {
+  "lei": "5299000WVEJNSG42AK88",
+  "name": "SIMCORP A/S",
+  "score": 100.0
+ },
+ "213800AQRI74L22LG544": {
+  "name": "OLYMPIC HOLDCO S.À R.L.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "529900C8I8Y5YVSG7368": {
+  "name": "PG Aztec S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "636700Y4FPD6LGNV3S34": {
+  "name": "Anchorage European Credit Opportunities Master Fund I SCSp",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "894500A4WVPQZ5L08N66": {
+  "name": "Real Empire Capital SARL",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::GOOGLE CLOUD EMEA LIMITED::None": {
+  "lei": "98450052CF14CFEB6435",
+  "name": "GOOGLE CLOUD EMEA LIMITED",
+  "score": 100.0
+ },
+ "suggest::SALESFORCE, INC.::None": {
+  "lei": "RCGZFPDMRW58VJ54VR07",
+  "name": "SALESFORCE, INC.",
+  "score": 100.0
+ },
+ "suggest::LuxTrust S.A.::None": null,
+ "529900P5Y1QP2RYV0E68": {
+  "name": "Zermat S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::KYNDRYL HOLDINGS, INC.::None": {
+  "lei": "549300LQ4LWX2R8ZV130",
+  "name": "KYNDRYL HOLDINGS, INC.",
+  "score": 100.0
+ },
+ "254900854CYG3Z0C3Z59": {
+  "name": "Glennmont Partners IV S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "529900PTMOPS8Y3KTX50": {
+  "name": "Pujol S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "6488WY9J26B451SRO563": {
+  "name": "GC Partner SA",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "8945001B9LWX0JU1DJ88": {
+  "name": "Prime Capital Partner S.A.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::INTERNATIONAL BUSINESS MACHINES CORPORATION::None": {
+  "lei": "VGRQXHF3J8VDLUA7XE92",
+  "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+  "score": 100.0
+ },
+ "suggest::REFINITIV LIMITED::None": {
+  "lei": "254900TF5VKTJ141VZ73",
+  "name": "REFINITIV LIMITED",
+  "score": 100.0
+ },
+ "suggest::SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION::None": {
+  "lei": "HB7FFAZI0OMZ8PP8OE26",
+  "name": "SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION",
+  "score": 100.0
+ },
+ "suggest::CLEARSTREAM BANKING S.A.::None": {
+  "lei": "549300OL514RA0SXJJ44",
+  "name": "CLEARSTREAM BANKING S.A.",
+  "score": 100.0
+ },
+ "suggest::PROXIMUS LUXEMBOURG S.A.::None": {
+  "lei": "5493009JROZ7J6P07171",
+  "name": "PROXIMUS LUXEMBOURG S.A.",
+  "score": 100.0
+ },
+ "213800JUKZXHAHUCA109": {
+  "name": "URBOX ACCORDION FINCO 1 (LUX) S.À R.L.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::Bloomberg Finance L.P.::None": {
+  "lei": "5493001KJTIIGC8Y1R12",
+  "name": "Bloomberg Finance L.P.",
+  "score": 100.0
+ },
+ "suggest::ACCENTURE PUBLIC LIMITED COMPANY::None": {
+  "lei": "5493000EWHDSR3MZWH98",
+  "name": "ACCENTURE PUBLIC LIMITED COMPANY",
+  "score": 100.0
+ },
+ "suggest::POST LUXEMBOURG::None": {
+  "lei": "222100LLN7HBO5YEC577",
+  "name": "POST LUXEMBOURG",
+  "score": 100.0
+ },
+ "254900CUUWW3NEJ7QX41": {
+  "name": "Sapient Alternative Assets Fund - Secondary Strategy",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "64888TF6DDE5956J2M53": {
+  "name": "CAFMAGIL S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::Avaloq Group AG::None": {
+  "lei": "254900FFVZJHKGMS4B02",
+  "name": "Avaloq Group AG",
+  "score": 100.0
+ },
+ "984500DD91493F59B375": {
+  "name": "SPEX S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "suggest::SAP SE::None": {
+  "lei": "529900D6BF99LW9R2E68",
+  "name": "SAP SE",
+  "score": 100.0
+ },
+ "suggest::Atos Group::None": {
+  "lei": "5493001EZOOA66PTBR68",
+  "name": "Atos Group",
+  "score": 100.0
+ },
+ "875500DYJIGE110HB586": {
+  "name": "BlockTrust Fund",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ },
+ "9845002DBD941D95D847": {
+  "name": "BEDLAM II S.à r.l.",
+  "entity_status": "ACTIVE",
+  "registration_status": "LAPSED",
+  "country": "LU"
+ }
+}

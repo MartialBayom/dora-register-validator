@@ -1,0 +1,21 @@
+contract_ref,provider_id,ict_service_type,substitutability,last_audit_date,exit_plan,reintegration_possible,alternative_providers
+CTR-2022-0003,549300WCLFVEBTBNRF76,S18,,2026-09-15,Yes,,Yes
+CTR-2023-0004,549300WCLFVEBTBNRF76,S04,,2026-02-15,Yes,Highly complex,yes
+CTR-2022-0010,VGRQXHF3J8VDLUA7XE92,S15,Easily substitutable,2026-03-15,Yes,Difficult,Yes
+CTR-2023-0011,549300LQ4LWX2R8ZV130,S14,,2026-07-15,Yes,Highly complex,Yes
+CTR-2024-0012,549300EVUN2BTLJ3GT74,S07,Highly complex substitutability,2026-01-15,yes,Highly complex,Yes
+CTR-2025-0013,549300EVUN2BTLJ3GT74,S07,Highly complex substitutability,2026-07-15,Yes,Highly complex,Yes
+CTR-2019-0014,5493001KJTIIGC8Y1R12,S05,Not substitutable,2026-09-15,Yes,Difficult,No
+CTR-2020-0015,254900TF5VKTJ141VZ73,S05,,2026-04-15,Yes,Highly complex,Yes
+CTR-2021-0016,HB7FFAZI0OMZ8PP8OE26,S11,Not substitutable,2026-01-15,No,Difficult,No
+CTR-2022-0017,5067007NW6550481FH64,S13,Not substitutable,2026-01-15,Yes,,No
+CTR-2024-0019,5299000WVEJNSG42AK88,S19,Highly complex substitutability,2026-01-15,Yes,,Yes
+CTR-2025-0020,549300OL514RA0SXJJ44,S19,Not substitutable,2026-06-15,Yes,Difficult,
+CTR-2019-0021,5493001EZOOA66PTBR68,S04,Medium complexity in terms of substitutability,2026-08-15,Yes,Highly complex,Yes
+CTR-2020-0022,5493000EWHDSR3MZWH98,S02,Easily substitutable,2026-10-15,,Difficult,Yes
+CTR-2021-0023,549300LKFJ962MZ46593,S12,Medium complexity in terms of substitutability,2026-02-15,Yes,Highly complex,
+CTR-2022-0024,549300LKFJ962MZ46593,S12,,2026-05-15,Yes,Highly complex,Yes
+CTR-2023-0025,526700A226529CF0D718,S04,Highly complex substitutability,2026-05-15,Yes,Highly complex,Yes
+CTR-2025-0027,5493009JROZ7J6P07171,S10,Medium complexity in terms of substitutability,2026-06-15,Yes,Highly complex,Yes
+CTR-2019-0028,6WQI0GK1PRFVBA061U48,S13,Highly complex substitutability,2026-10-15,Yes,,Yes
+CTR-2020-0029,549300KZDJZQ2YIHRC28,S19,Medium complexity in terms of substitutability,2026-07-15,Yes,Highly complex,

@@ -1,0 +1,2 @@
+rule,family,severity,template,row,column,value,message,suggested_fix
+LEI_STATUS,LEI validity,Warning,B_05.01,18,provider_id,526700A226529CF0D718,LEI registration is LAPSED in GLEIF,ask the entity to renew its LEI

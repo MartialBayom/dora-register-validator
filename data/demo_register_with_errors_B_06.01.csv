@@ -1,0 +1,15 @@
+function_id,function_name,fe_lei,criticality,last_assessment_date,rto_hours,rpo_hours
+F01,Payments execution,9845DEMO0PAYLUX00005,Critical or important,13/08/2026,4,
+F02,Core banking - accounts and deposits,9845DEMO0BANKLUX0081,,2026-11-05,,4
+F03,,9845DEMO0BANKLUX0081,,2026-01-22,2,0
+F04,Portfolio management,9845DEMO0AMLUX000010,,2026-10-02,8,0
+F05,Client onboarding and KYC,9845DEMO0BANKLUX0081,,2026-05-16,24,4
+F06,AML transaction monitoring,9845DEMO0BANKLUX0081,,,24,0
+F07,Regulatory reporting,9845DEMO0BANKLUX0081,Critical or important,,2,0
+F08,Market data and pricing,9845DEMO0AMLUX000010,,2026-08-07,8,4
+F09,,9845DEMO0BANKLUX0081,,2026-07-25,8,1
+F10,E-mail and collaboration,9845DEMO0BANKLUX0081,Not critical or important,2026-09-27,72,24
+F11,Customer relationship management,9845DEMO0BANKLUX0081,Not critical or important,2026-07-19,72,
+F12,,9845DEMO0BANKLUX0081,Not critical or important,2026-06-18,72,24
+F13,HR and payroll,9845DEMO0BANKLUX0081,,2026-10-14,72,24
+F14,Strong customer authentication,9845DEMO0PAYLUX00005,Critical or important,,,4

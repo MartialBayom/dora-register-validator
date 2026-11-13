@@ -1,0 +1,20 @@
+group,critical_functions,functions,without_exit_plan,not_substitutable,share_of_critical_functions_pct
+MICROSOFT CORPORATION,3,"AML transaction monitoring, Client onboarding and KYC, Cybersecurity monitoring",0,0,30.0
+"CISCO SYSTEMS, INC.",2,"Core banking - accounts and deposits, Payments execution",0,0,20.0
+"EQUINIX, INC.",2,"Core banking - accounts and deposits, Payments execution",0,0,20.0
+Deutsche Borse Aktiengesellschaft,2,"Custody and settlement, Portfolio management",0,1,20.0
+"BROADRIDGE FINANCIAL SOLUTIONS, INC.",1,Regulatory reporting,0,0,10.0
+ACCENTURE PUBLIC LIMITED COMPANY,1,Client onboarding and KYC,0,0,10.0
+Atos Group,1,Cybersecurity monitoring,0,0,10.0
+"FIDELITY NATIONAL INFORMATION SERVICES, INC.",1,Portfolio management,0,0,10.0
+INTERNATIONAL BUSINESS MACHINES CORPORATION,1,Regulatory reporting,0,0,10.0
+"KYNDRYL HOLDINGS, INC.",1,Core banking - accounts and deposits,0,0,10.0
+Bloomberg Inc.,1,Market data and pricing,0,1,10.0
+LONDON STOCK EXCHANGE GROUP PLC,1,Market data and pricing,0,0,10.0
+LuxTrust S.A.,1,Strong customer authentication,0,0,10.0
+NEC Corporation,1,Custody and settlement,0,0,10.0
+ORACLE CORPORATION,1,Regulatory reporting,0,0,10.0
+POST LUXEMBOURG,1,Payments execution,0,0,10.0
+PROXIMUS,1,Core banking - accounts and deposits,0,0,10.0
+SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION,1,Payments execution,1,1,10.0
+TEMENOS AG,1,Core banking - accounts and deposits,0,1,10.0
